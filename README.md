@@ -13,8 +13,6 @@
   - 소개: 머신러닝을 이용한, 물고기 분류 서비스 및 낚시 정보 제공 플랫폼.
   - 담당: 크롤링 / 데이터 정제, 전처리 / 이름 라벨링 / 사진 메타데이터 가공 / BE(스프링)와 FE(HTML/CSS)에 도움
 
-
-
 ## 대학원 과제들
 
 - [Set Game](https://github.com/hello-yoochul/StAndrewsCS5031P2) (팀)
@@ -40,5 +38,13 @@
 - Java 
   - [Effective Java](https://github.com/GANGNAM-EFFECTIVEJAVA/EFFECTIVEJAVA/wiki)
   -  [Modern Java in Action](
+
+## 자격증
+2019.08: 정보처리기사 - 한국 산업 인력 공단
+2019.04: SQLD - 데이터 진흥원
+2017.05: CCNA (Cisco Certified Network Associate) - Cisco
+2017.04: LPIC-1 (Linux Professional Institute) - LPI
+2016.12: OCJP (Oracle Certified Java Programmer) - Oracle
+
 
 [![Yoochul's github stats](https://github-readme-stats.vercel.app/api?username=hello-yoochul)](https://github.com/hello-yoochul/github-readme-stats)
