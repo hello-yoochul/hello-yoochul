@@ -40,11 +40,11 @@
   -  [Modern Java in Action](
 
 ## 자격증
-2019.08: 정보처리기사 - 한국 산업 인력 공단
-2019.04: SQLD - 데이터 진흥원
-2017.05: CCNA (Cisco Certified Network Associate) - Cisco
-2017.04: LPIC-1 (Linux Professional Institute) - LPI
-2016.12: OCJP (Oracle Certified Java Programmer) - Oracle
+- 2019.08: 정보처리기사 - 한국 산업 인력 공단
+- 2019.04: SQLD - 데이터 진흥원
+- 2017.05: CCNA (Cisco Certified Network Associate) - Cisco
+- 2017.04: LPIC-1 (Linux Professional Institute) - LPI
+- 2016.12: OCJP (Oracle Certified Java Programmer) - Oracle
 
 
 [![Yoochul's github stats](https://github-readme-stats.vercel.app/api?username=hello-yoochul)](https://github.com/hello-yoochul/github-readme-stats)
