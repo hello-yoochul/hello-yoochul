@@ -6,10 +6,10 @@
 
 ## 프로젝트
 
-- [소프트웨어 개발 보안 프로젝트](https://github.com/hello-yoochul/TeamSickYourCoding)
+- [소프트웨어 개발 보안 해커톤](https://github.com/hello-yoochul/TeamSickYourCoding) (2020.09.30)
   - 소개: 공공데이터를 이용한 관광 도우미 앱 개발
   - 담당: 안드로이드 앱 개발 (공공데이터 활용, infinite 스크롤 뷰, TTS, 찜목록)
-- [빅데이터 청년 캠퍼스 프로젝트](https://github.com/hello-yoochul/TeamTruffle)
+- [빅데이터 청년 캠퍼스 프로젝트](https://github.com/hello-yoochul/TeamTruffle) (2020.08.30)
   - 소개: 머신러닝을 이용한, 물고기 분류 서비스 및 낚시 정보 제공 플랫폼.
   - 담당: 크롤링 / 데이터 정제, 전처리 / 이름 라벨링 / 사진 메타데이터 가공 / BE(스프링)와 FE(HTML/CSS)에 도움
 
