@@ -39,6 +39,10 @@
   - [Effective Java](https://github.com/GANGNAM-EFFECTIVEJAVA/EFFECTIVEJAVA/wiki)
   -  [Modern Java in Action](https://github.com/Modern-Java-in-Action/Online-Study/wiki)
 
+## 교육
+- 데이터 청년 캠퍼스 (2020.06.27~2020.08.31)
+- 케이쉴드 주니어 (2020.03.16~2020.04.31)
+
 ## 자격증
 - 2019.04: 정보처리기사 - 한국 산업 인력 공단
 - 2019.04: SQLD - 데이터 진흥원
