@@ -6,10 +6,10 @@
 
 ## 프로젝트
 
-- [소프트웨어 개발 보안 해커톤](https://github.com/hello-yoochul/TeamSickYourCoding) (2020.09.30)
+- [소프트웨어 개발 보안 해커톤](https://github.com/hello-yoochul/TeamSickYourCoding) (2019.09.30)
   - 소개: 공공데이터를 이용한 관광 도우미 앱 개발
   - 담당: 안드로이드 앱 개발 (공공데이터 활용, infinite 스크롤 뷰, TTS, 찜목록)
-- [빅데이터 청년 캠퍼스 프로젝트](https://github.com/hello-yoochul/TeamTruffle) (2020.08.30)
+- [빅데이터 청년 캠퍼스 프로젝트](https://github.com/hello-yoochul/TeamTruffle) (2019.08.30)
   - 소개: 머신러닝을 이용한, 물고기 분류 서비스 및 낚시 정보 제공 플랫폼.
   - 담당: 크롤링 / 데이터 정제, 전처리 / 이름 라벨링 / 사진 메타데이터 가공 / BE(스프링)와 FE(HTML/CSS)에 도움
 
@@ -40,8 +40,8 @@
   -  [Modern Java in Action](https://github.com/Modern-Java-in-Action/Online-Study/wiki)
 
 ## 교육
-- 데이터 청년 캠퍼스 (2020.06.27~2020.08.31)
-- 케이쉴드 주니어 (2020.03.16~2020.04.31)
+- 데이터 청년 캠퍼스 (2019.06.27~2019.08.31)
+- 케이쉴드 주니어 (2019.03.16~2019.04.31)
 
 ## 자격증
 - 2019.04: 정보처리기사 - 한국 산업 인력 공단
