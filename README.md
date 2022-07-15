@@ -4,7 +4,7 @@
 
 - https://foflzla12.gitbook.io/yoochul-kim
 
-## 프로젝트
+## 수상
 
 - [소프트웨어 개발 보안 해커톤](https://github.com/hello-yoochul/TeamSickYourCoding) (2019.09.30)
   - 소개: 공공데이터를 이용한 관광 도우미 앱 개발
