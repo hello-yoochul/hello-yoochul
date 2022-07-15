@@ -37,10 +37,10 @@
 - [JPA](https://github.com/GANGNAM-JPA/ORM-JPA/wiki)
 - Java 
   - [Effective Java](https://github.com/GANGNAM-EFFECTIVEJAVA/EFFECTIVEJAVA/wiki)
-  -  [Modern Java in Action](
+  -  [Modern Java in Action](https://github.com/Modern-Java-in-Action/Online-Study/wiki)
 
 ## 자격증
-- 2019.08: 정보처리기사 - 한국 산업 인력 공단
+- 2019.04: 정보처리기사 - 한국 산업 인력 공단
 - 2019.04: SQLD - 데이터 진흥원
 - 2017.05: CCNA (Cisco Certified Network Associate) - Cisco
 - 2017.04: LPIC-1 (Linux Professional Institute) - LPI
