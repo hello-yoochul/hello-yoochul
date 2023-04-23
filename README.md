@@ -1,51 +1,53 @@
 # About me
 
-## 개인 블로그 
+## Blog
+- [Gitbook - Yoochul's Tech Blog](https://foflzla12.gitbook.io/yoochul-kim)
 
-- https://foflzla12.gitbook.io/yoochul-kim
+## Assignments
+- [Animal Chess Game]([https://github.com/hello-yoochul/StAndrewsCS5001P2](https://github.com/hello-yoochul/ShogiGame))
+  - OOP (animal objects including players) / TDD (animal move unit testing)
+- [Set Game](https://github.com/hello-yoochul/StAndrewsCS5031P2) (Team Project)
+  - : Java Swing Front-end development based on MVC
+- [Painting tool](https://github.com/hello-yoochul/StAndrewsCS5001P4)
+  - Swing / Observer pattern / MVC / OOP 
+- [REST API Networking](https://github.com/hello-yoochul/StAndrewsCS5001P3)
+  - Multi-thread / HTTP Method / Socket communication
+- [Distributed system algorithm](https://github.com/hello-yoochul/StAndrewsCS4103P1)
+  - Paxos algoritm / Google Web Toolkit
+- [yahtzee Game](https://github.com/hello-yoochul/StAndrewsCS5031P1/tree/master/src)
+  - TDD (for dices combo)
+- Dissertation
+  - Finding bugs appearing in the Spring-utilised code
 
-## 수상
-
-- [소프트웨어 개발 보안 해커톤](https://github.com/hello-yoochul/TeamSickYourCoding) (2019.09.30)
-  - 소개: 공공데이터를 이용한 관광 도우미 앱 개발
-  - 담당: 안드로이드 앱 개발 (공공데이터 활용, infinite 스크롤 뷰, TTS, 찜목록)
-- [빅데이터 청년 캠퍼스 프로젝트](https://github.com/hello-yoochul/TeamTruffle) (2019.08.30)
-  - 소개: 머신러닝을 이용한, 물고기 분류 서비스 및 낚시 정보 제공 플랫폼.
-  - 담당: 크롤링 / 데이터 정제, 전처리 / 이름 라벨링 / 사진 메타데이터 가공 / BE(스프링)와 FE(HTML/CSS)에 도움
-
-## 대학원 과제들
-
-- [Set Game](https://github.com/hello-yoochul/StAndrewsCS5031P2) (팀)
-  - 담당: Swing 이용 프론트엔드 개발 (MVC 구조) 
-- [그림판](https://github.com/hello-yoochul/StAndrewsCS5001P4)
-  - Swing 이용 / Observer 패턴 / 각 도형 객체화와 공통 부분 추상화 / MVC
-- [REST API 네트워킹](https://github.com/hello-yoochul/StAndrewsCS5001P3)
-  - 멀티 쓰레드 / HTTP Method / 소켓 통신
-- [동물 체스](https://github.com/hello-yoochul/StAndrewsCS5001P2)
-  - OOP (플레이어를 포함한 모든 동물들도 Object) / TDD (동물들의 움직임 유닛 테스팅)
-- [분산 시스템 알고리즘 구현](https://github.com/hello-yoochul/StAndrewsCS4103P1)
-  - Paxos 알고리즘 / Google Web Toolkit
-- [yahtzee 게임](https://github.com/hello-yoochul/StAndrewsCS5031P1/tree/master/src)
-  - TDD (주사위 조합 확인 유닛테스팅)
-- [논문](https://github.com/sbefsf/findspringbugs/wiki)
-  - 스프링 프레임워크 사용시 자주 나타나는 버그 패턴 감지하는 정적 분석기 개발
-
-## 그룹 스터디
-
+## Group Study
 - [DDD](https://github.com/DDD-START/ONLINE-STUDY/wiki )
-- [오브젝트](https://github.com/HONGDAE-OBJECT/OOP/wiki) 
+- [Object (OOPS)](https://github.com/HONGDAE-OBJECT/OOP/wiki) 
 - [JPA](https://github.com/GANGNAM-JPA/ORM-JPA/wiki)
 - Java 
   - [Effective Java](https://github.com/GANGNAM-EFFECTIVEJAVA/EFFECTIVEJAVA/wiki)
   -  [Modern Java in Action](https://github.com/Modern-Java-in-Action/Online-Study/wiki)
 
-## 교육
-- 데이터 청년 캠퍼스 (2019.06.27~2019.08.31)
-- 케이쉴드 주니어 (2019.03.16~2019.04.31)
 
-## 자격증
-- 2019.04: 정보처리기사 - 한국 산업 인력 공단
-- 2019.04: SQLD - 데이터 진흥원
+## Awards
+- [Software Development and Security Hackathon](https://github.com/hello-yoochul/TeamSickYourCoding) (2019.09.30)
+  - Developed an Android application and Servlet-based server with Azure cloud for
+foreign tourists with security function (공공데이터 활용, infinite 스크롤 뷰, TTS, 찜목록)
+- [Fostering Big Data Young Talents Project Evaluation](https://github.com/hello-yoochul/TeamTruffle) (2019.08.30)
+  - 소개: 머신러닝을 이용한, 물고기 분류 서비스 및 낚시 정보 제공 플랫폼. Fish classification service and fishing information provision platform using machine learning.
+  - 담당: 크롤링 / 데이터 정제, 전처리 / 이름 라벨링 / 사진 메타데이터 가공 / BE(스프링)와 FE(HTML/CSS)에 도움
+
+## Extracurricular Activities
+- Fostering Big Data Young Talents Training Course (2019.06.27~2019.08.31)
+  - Government-funded training hosted by Ministry of Science and ICT
+  - Included AI and Big Data training with a mini project
+- K-Shield IT Security Practitioner Training Course (2019.03.16~2019.04.31)
+  - Government-funded training hosted by Korea Internet Security Agency
+  - Included training on network/OS/web application vulnerabilities response (based on
+OWASP TOP 10), log analysis, and security incidents prevention (IDS/IPS, ELK)
+
+## Certificates
+- 2019.04: Information Processing Engineering  (정보처리기사 - 한국 산업 진흥원)
+- 2019.04: SQL Developer (SQLD - 데이터 진흥원)
 - 2017.05: CCNA (Cisco Certified Network Associate) - Cisco
 - 2017.04: LPIC-1 (Linux Professional Institute) - LPI
 - 2016.12: OCJP (Oracle Certified Java Programmer) - Oracle
