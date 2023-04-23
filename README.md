@@ -4,7 +4,7 @@
 - [Gitbook - Yoochul's Tech Blog](https://foflzla12.gitbook.io/yoochul-kim)
 
 ## Assignments
-- [Animal Chess Game]([https://github.com/hello-yoochul/StAndrewsCS5001P2](https://github.com/hello-yoochul/ShogiGame))
+- [Animal Chess Game](https://github.com/hello-yoochul/ShogiGame)
   - OOP (animal objects including players) / TDD (animal move unit testing)
 - [Set Game](https://github.com/hello-yoochul/StAndrewsCS5031P2) (Team Project)
   - : Java Swing Front-end development based on MVC
