@@ -6,7 +6,7 @@
 ## Assignments
 - [Animal Chess Game](https://github.com/hello-yoochul/ShogiGame)
   - OOP (animal objects including players) / TDD (animal move unit testing)
-- [Set Game](https://github.com/hello-yoochul/StAndrewsCS5031P2) (Team Project)
+- [Set Game](https://github.com/hello-yoochul/SetGame) (Team Project)
   - : Java Swing Front-end development based on MVC
 - [Painting tool](https://github.com/hello-yoochul/StAndrewsCS5001P4)
   - Swing / Observer pattern / MVC / OOP 
