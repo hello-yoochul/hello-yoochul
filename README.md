@@ -8,14 +8,14 @@
   - OOP (animal objects including players) / TDD (animal move unit testing)
 - [Set Game](https://github.com/hello-yoochul/SetGame) (Team Project)
   - : Java Swing Front-end development based on MVC
+- [yahtzee Game](https://github.com/hello-yoochul/yahtzeegame)
+  - TDD, OOP
 - [Painting tool](https://github.com/hello-yoochul/StAndrewsCS5001P4)
   - Swing / Observer pattern / MVC / OOP 
 - [REST API Networking](https://github.com/hello-yoochul/StAndrewsCS5001P3)
   - Multi-thread / HTTP Method / Socket communication
 - [Distributed system algorithm](https://github.com/hello-yoochul/StAndrewsCS4103P1)
   - Paxos algoritm / Google Web Toolkit
-- [yahtzee Game](https://github.com/hello-yoochul/StAndrewsCS5031P1/tree/master/src)
-  - TDD (for dices combo)
 - Dissertation
   - Finding bugs appearing in the Spring-utilised code
 
