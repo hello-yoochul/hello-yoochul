@@ -6,10 +6,10 @@
 ## Assignments
 - [Animal Chess Game](https://github.com/hello-yoochul/ShogiGame)
   - OOP, TDD
+- [Yahtzee Game](https://github.com/hello-yoochul/yahtzeegame)
+  - TDD, OOP
 - [Set Game](https://github.com/hello-yoochul/SetGame) (Team Project)
   - : Java Swing Front-end development based on MVC
-- [yahtzee Game](https://github.com/hello-yoochul/yahtzeegame)
-  - TDD, OOP
 - [Painting tool](https://github.com/hello-yoochul/StAndrewsCS5001P4)
   - Swing / Observer pattern / MVC / OOP 
 - [REST API Networking](https://github.com/hello-yoochul/StAndrewsCS5001P3)
