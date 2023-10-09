@@ -1,8 +1,5 @@
 # About me
 
-## Blog
-- [Gitbook - Yoochul's Tech Blog](https://foflzla12.gitbook.io/yoochul-kim)
-
 ## Assignments
 - [Animal Chess Game](https://github.com/hello-yoochul/ShogiGame)
   - OOP, TDD
@@ -44,6 +41,10 @@ foreign tourists with security function (공공데이터 활용, infinite 스크
   - Government-funded training hosted by Korea Internet Security Agency
   - Included training on network/OS/web application vulnerabilities response (based on
 OWASP TOP 10), log analysis, and security incidents prevention (IDS/IPS, ELK)
+
+## Blog
+- [Gitbook - Yoochul's Tech Blog](https://foflzla12.gitbook.io/yoochul-kim)
+
 
 ## Certificates
 - 2019.04: Information Processing Engineering  (정보처리기사 - 한국 산업 진흥원)
