@@ -18,7 +18,7 @@
 
 ## Group Study
 - [DDD](https://github.com/DDD-START/ONLINE-STUDY/wiki )
-- [Object (OOPS)](https://github.com/HONGDAE-OBJECT/OOP/wiki) 
+- [Object (OOP)](https://github.com/HONGDAE-OBJECT/OOP/wiki) 
 - [JPA](https://github.com/GANGNAM-JPA/ORM-JPA/wiki)
 - Java 
   - [Effective Java](https://github.com/GANGNAM-EFFECTIVEJAVA/EFFECTIVEJAVA/wiki)
