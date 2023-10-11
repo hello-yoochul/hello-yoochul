@@ -20,9 +20,10 @@
 - [DDD](https://github.com/DDD-START/ONLINE-STUDY/wiki )
 - [Object (OOP)](https://github.com/HONGDAE-OBJECT/OOP/wiki) 
 - [JPA](https://github.com/GANGNAM-JPA/ORM-JPA/wiki)
-- Java 
-  - [Effective Java](https://github.com/GANGNAM-EFFECTIVEJAVA/EFFECTIVEJAVA/wiki)
-  -  [Modern Java in Action](https://github.com/Modern-Java-in-Action/Online-Study/wiki)
+- Java
+  - [Effective Java 2차](https://github.com/Online-EffectiveJava-Study-Group/effective-java-study/wiki) 
+  - [Effective Java 1차](https://github.com/GANGNAM-EFFECTIVEJAVA/EFFECTIVEJAVA/wiki)
+  - [Modern Java in Action](https://github.com/Modern-Java-in-Action/Online-Study/wiki)
 
 
 ## Awards
