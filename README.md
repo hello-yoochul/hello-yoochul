@@ -1,6 +1,8 @@
 # About me
 
 ## Assignments
+- [HTTP Networking](https://github.com/hello-yoochul/Networking)
+  - Multi-thread / HTTP Method / Socket Programming
 - [Animal Chess Game](https://github.com/hello-yoochul/ShogiGame)
   - OOP, TDD
 - [Yahtzee Game](https://github.com/hello-yoochul/yahtzeegame)
@@ -9,8 +11,6 @@
   - : Java Swing Front-end development based on MVC
 - [Painting tool](https://github.com/hello-yoochul/StAndrewsCS5001P4)
   - Swing / Observer pattern / MVC / OOP 
-- [HTTP Networking](https://github.com/hello-yoochul/Networking)
-  - Multi-thread / HTTP Method / Socket Programming
 - [Distributed system algorithm](https://github.com/hello-yoochul/StAndrewsCS4103P1)
   - Paxos algoritm / Google Web Toolkit
 - Dissertation
