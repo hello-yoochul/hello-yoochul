@@ -2,7 +2,7 @@
 
 ## Assignments
 - [HTTP Networking](https://github.com/hello-yoochul/Networking)
-  - Multi-thread / HTTP Method / Socket Programming / 전략패턴
+  - Java I/O (Network, File), Multi-thread / HTTP Method / Socket Programming / 전략패턴
 - [Animal Chess Game](https://github.com/hello-yoochul/ShogiGame)
   - OOP, TDD
 - [Yahtzee Game](https://github.com/hello-yoochul/yahtzeegame)
